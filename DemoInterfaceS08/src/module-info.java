@@ -1,0 +1,2 @@
+module DemoInterfaceS08 {
+}
